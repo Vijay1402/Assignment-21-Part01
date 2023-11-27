@@ -1,0 +1,7 @@
+D:\Vij Work\SimpliLearn\Phase 1\Day 16\Assignment21-1\Assignment21-1\bin\Debug\Assignment21-1.exe.config
+D:\Vij Work\SimpliLearn\Phase 1\Day 16\Assignment21-1\Assignment21-1\bin\Debug\Assignment21-1.exe
+D:\Vij Work\SimpliLearn\Phase 1\Day 16\Assignment21-1\Assignment21-1\bin\Debug\Assignment21-1.pdb
+D:\Vij Work\SimpliLearn\Phase 1\Day 16\Assignment21-1\Assignment21-1\obj\Debug\Assignment21-1.csproj.AssemblyReference.cache
+D:\Vij Work\SimpliLearn\Phase 1\Day 16\Assignment21-1\Assignment21-1\obj\Debug\Assignment21-1.csproj.CoreCompileInputs.cache
+D:\Vij Work\SimpliLearn\Phase 1\Day 16\Assignment21-1\Assignment21-1\obj\Debug\Assignment21-1.exe
+D:\Vij Work\SimpliLearn\Phase 1\Day 16\Assignment21-1\Assignment21-1\obj\Debug\Assignment21-1.pdb
